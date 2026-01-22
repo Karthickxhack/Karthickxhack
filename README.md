@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Karthick M</h1>
-<h3 align="center">A passionate Network Penetration Tester</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=WELCOME&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=15&descAlign=50&descAlignY=50&color=gradient"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karthickxhack&label=Profile%20views&color=0e75b6&style=flat" alt="Karthickxhack" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Karthickxhack&label=Profile%20views&color=0e75b6&style=flat" alt="Karthickxhack" /> </p>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+
+
+<h1 align="center">Hi 👋, I'm KARTHICK M</h1>
+<big><h2 align="center">A passionate Network Penetration Tester</h2></big>
+
 
 # 💫 About Me:
 - 💬 **Aspiring ethical hacker, learning and experimenting daily to build real-world cybersecurity skills. Dreaming big, hacking ethically, and securing the digital world.**
@@ -33,3 +48,23 @@
 [![](https://visitcount.itsvg.in/api?id=Karthickxhack&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<div align="left">
+  <a href="https://open.spotify.com/user/315ubcu2qoiqsrqysh5nubnnk4im">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ubcu2qoiqsrqysh5nubnnk4im&count=10&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ka/ka/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
