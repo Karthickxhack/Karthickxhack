@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.freepik.com/free-video/2d-cartoon-student-online-class_3384145#fromView=search&page=1&position=14&uuid=eb19d7a1-8e59-4a38-8e14-3d57b38f94a1"  />
+  <img height="200" src="giphy (1).gif"  />
 </div>
 
 ###
